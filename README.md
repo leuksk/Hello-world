@@ -1,4 +1,4 @@
 # Hello-world
 My Hello World repository
 
-i like noodles and coffee
+https://github.com/CodeDuet/powershell/tree/master/set-aduser_article
